@@ -1,1 +1,1 @@
-# angular-basic-projects
+# Angular Basic Projects
